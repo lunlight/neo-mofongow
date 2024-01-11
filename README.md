@@ -1,0 +1,2 @@
+# neo-mofongow
+Neovim configs
